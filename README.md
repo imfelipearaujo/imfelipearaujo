@@ -1,6 +1,6 @@
 ### 👋 Hi There!
 
-I'm Felipe Araujo, a passionate Web Developer currently working at MSX Invest for less than a year. My daily work involves primarily WordPress site development, including the creation and customization of plugins. Additionally, I have a personalized approach to enhancing pages, using HTML, CSS, JavaScript, and it's worth mentioning that I also work with MySQL to complement my skills. What makes my journey unique is my commitment to self-directed learning, seeking knowledge in online forums and through videos. Beyond the development realm, I volunteer at the 'Hamburgada do Bem' NGO, contributing to social causes. My next goal is to solidify my learning as a full-stack developer, exploring more programming languages, and adapting to new technologies."
+I'm Felipe Araujo, a passionate Web Developer currently working at MSX Invest for less than a year. My daily work involves primarily WordPress site development, including the creation and customization of plugins. Additionally, I have a personalized approach to enhancing pages, using HTML, CSS, JavaScript, and it's worth mentioning that I also work with MySQL to complement my skills. What makes my journey unique is my commitment to self-directed learning, seeking knowledge in online forums and through videos. Beyond the development realm, I volunteer at the 'Hamburgada do Bem' NGO, contributing to social causes. My next goal is to solidify my learning as a full-stack developer, exploring more programming languages, and adapting to new technologies.
 
 ##
 
