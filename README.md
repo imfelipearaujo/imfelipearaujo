@@ -22,8 +22,13 @@ I'm Felipe Araujo, a passionate Web Developer currently working at MSX Invest fo
 
 <div align="center">  <br>
 	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfelipearaujo&layout=compact&hide_border=false&title_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" />
-	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=imfelipearaujo&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Araujo's github stats" /> 
+
+## GitHub Stats	
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=imfelipearaujo&show_icons=true&count_private=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&bg_color=0d1117&hide_title=true&hide=stars" alt="Felipe Araujo's github stats" /> 
 </div>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
+
+## Minhas Contribuições
+[!Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=imfelipearaujo&repo=dio-lab-open-source&bg_color=2C2C2C&border_color=fff&show_icones=true&icon_color=fff&title_color=fff&text_color=fff)](https://github.com/imfelipearaujo/dio-lab-open-source)
