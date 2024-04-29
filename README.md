@@ -6,15 +6,15 @@ I'm Felipe Araujo, a passionate Web Developer currently working at MSX Invest fo
 
 ### 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-2c2c2c.svg?style=for-the-badge&logo=javascript&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-2c2c2c.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-2c2c2c.svg?style=for-the-badge&logo=css3&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-2c2c2c.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-2c2c2c.svg?style=for-the-badge&logo=Trello&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-2c2c2c.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 
 ### 🌐 Social Media
 
 <div>	
-   <a href="https://instagram.com/imfelipearaujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:felipearaujodeassis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipearaujodeassis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://instagram.com/imfelipearaujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-2c2c2c?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:felipearaujodeassis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2c2c2c?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipearaujodeassis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2c2c2c?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
