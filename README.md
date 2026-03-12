@@ -14,36 +14,49 @@ My current goal is to keep growing in **operations, automation, reporting, and p
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-2c2c2c.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-2c2c2c.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-2c2c2c.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-2c2c2c.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-2c2c2c.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-2c2c2c.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-2c2c2c.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel](https://img.shields.io/badge/Excel-2c2c2c.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## 🧠 Programming & Development
+![Python](https://img.shields.io/badge/Python-2c2c2c?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2c2c2c?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2c2c2c?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2c2c2c?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🌐 Social Media
-
-<div>
-  <a href="https://instagram.com/imfelipearaujo" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-2c2c2c?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:felipearaujodeassis@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-2c2c2c?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipearaujo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-2c2c2c?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+## 🌐 Web & CMS
+![WordPress](https://img.shields.io/badge/WordPress-2c2c2c?style=for-the-badge&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2c2c2c?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🐍 Snake
+## 📊 Data & Analytics
+![Excel](https://img.shields.io/badge/Excel-2c2c2c?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-2c2c2c?style=for-the-badge&logo=powerbi&logoColor=white)
+
+---
+
+## 🤖 Automation & AI
+![AI Tools](https://img.shields.io/badge/AI%20Tools-2c2c2c?style=for-the-badge&logo=openai&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-2c2c2c?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🧰 Productivity & Workflow
+![Notion](https://img.shields.io/badge/Notion-2c2c2c?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-2c2c2c?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-2c2c2c?style=for-the-badge&logo=slack&logoColor=white)
+
+---
+
+# 🌐 Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2c2c2c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipearaujo)
+[![Instagram](https://img.shields.io/badge/Instagram-2c2c2c?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imfelipearaujo)
+
+---
+
+# 🐍 Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imfelipearaujo/imfelipearaujo/output/github-snake-dark.svg" />
