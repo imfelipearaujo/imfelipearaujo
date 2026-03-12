@@ -1,5 +1,9 @@
 # 👋 Hi there!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Backoffice+%7C+Operations+%7C+Automation;Process+Improvement+and+Reporting;Building+smarter+workflows+for+finance)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=imfelipearaujo&color=2c2c2c&style=for-the-badge)
+
 I'm **Felipe Araujo**, currently working as a **Backoffice professional at Brazil Wealth**.
 
 My routine involves operational demands, portfolio updates, data checking, document organization, support for consultants, and process improvement. I also help structure internal materials, reports, and automations to make workflows more efficient, accurate, and scalable.
@@ -61,6 +65,10 @@ My current goal is to keep growing in **operations, automation, reporting, and p
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=imfelipearaujo&show_icons=true&theme=github_dark&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfelipearaujo&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=imfelipearaujo&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
