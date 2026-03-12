@@ -56,7 +56,16 @@ My current goal is to keep growing in **operations, automation, reporting, and p
 
 ---
 
-# 🐍 Contribution
+# 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imfelipearaujo&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfelipearaujo&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imfelipearaujo/imfelipearaujo/output/github-snake-dark.svg" />
