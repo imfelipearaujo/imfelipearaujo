@@ -1,6 +1,10 @@
 # 👋 Hi there!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&width=700&lines=Backoffice+%7C+Operations+%7C+Automation;Process+Improvement+and+Reporting;Building+smarter+workflows+for+finance)](https://git.io/typing-svg)
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=700&lines=Backoffice+%7C+Operations+%7C+Automation;Process+Improvement+and+Reporting;Building+smarter+workflows+for+finance)](https://git.io/typing-svg)
+
+</p>
 
 ![](https://komarev.com/ghpvc/?username=imfelipearaujo&color=2c2c2c&style=for-the-badge)
 
